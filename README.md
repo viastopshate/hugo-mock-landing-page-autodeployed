@@ -2,7 +2,7 @@
 
 ## About Page
 
-We created an "About.md" page to introduce visitors to the VitalBand team, highlighting our mission, values, and the individuals behind the project. This page serves as a cornerstone of our website, offering insights into our dedication to innovation and community engagement. By sharing our story, we aim to build a stronger connection with our audience, encouraging trust and collaboration. The content outlines our journey, key achievements, and future goals, providing a comprehensive view of what drives the VitalBand team forward.
+I created an "About.md" page to introduce visitors to the VitalBand team, highlighting our mission, values, and the individuals behind the project. This page serves as a cornerstone of our website, offering insights into our dedication to innovation and community engagement. By sharing our story, we aim to build a stronger connection with our audience, encouraging trust and collaboration. The content outlines our journey, key achievements, and future goals, providing a comprehensive view of what drives the VitalBand team forward.
 
 ## Contact Page
 
